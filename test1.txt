@@ -1,0 +1,9 @@
+this is a test file 1
+this is intended to test diff algorithm and search the differences
+how to use it
+something
+blablabla
+a
+b
+b
+c
